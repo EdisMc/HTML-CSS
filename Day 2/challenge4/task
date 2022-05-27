@@ -1,0 +1,30 @@
+
+Welcome to Lesson 2 - Challenge 4
+Every HTML element can be assigned a class identifier. This is done by including a class attribute and its associated value in the element's opening tag . Elements that are conceptually grouped in some way can be given the same class attribute value . They should also be given a meaningful name that describes what the element grouping is being used for. We can use CSS to target class attributes and apply a collective style to those elements.
+
+In the last challenge, you applied id styling to a Sporting History web page. In particular, you:
+
+    Added an id and its value to a div element
+    Added an id and its value to the div's child paragraph element
+    You then targeted these ids with unique styles
+
+This challenge will build upon the previous one.
+In particular, you will:
+
+    Group and style the sports-related content on your web page
+    Group and style programming-related content on your web page
+
+Result
+Your result should look like the image below.
+ 
+Steps
+
+    Add a class attribute to the first two <h3> elements and give each of them the attribute value of sports-history
+    Add a class attribute to the second two <h3> elements and give each of them the attribute value of computing-history
+    Create a style rule beneath the existing id rules that has a corresponding class selector name of sports-history. This will target our sports content
+    Within that rule, add a declaration that sets the color property to orange
+    Create another style rule has a corresponding class selector name of computing-history. This will target our programming content
+    Within that rule add a declaration that sets the color property to green
+
+Tips
+If you're stuck, the Targeting A Group video will give you everything you need to succeed.
