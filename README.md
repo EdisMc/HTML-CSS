@@ -1,1 +1,1 @@
-# HTML-CSS
+#CodeInstitue mini html&css course tasks#
