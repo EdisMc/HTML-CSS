@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
 
+    <title>Tea Recipe</title>
+    
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+	<body>
+		
+		<header>
+			<h1>How to make Tea</h1>
+
+			image
+
+			<p>At the very least, tea is a flavourful way of getting enough fluid into your body each day.
+        On top of that, studies have shown teas can help protect your teeth and your heart</p>
+
+		</header>
+		
+		<section>
+			<h2>ingredients</h2>
+			<ul>
+				<li>Tea Bag</li>
+				<li>Water</li>
+				<li>Milk - Dairy/Plant based(Optional)</li>
+				<li>Sugar/Honey (Optional)</li>
+			</ul>
+		</section>
+		
+		<section>
+			<h2>preparation</h2>
+
+			<ol>
+			    <li>Run the tap a little so the water's nicely aerated</li>
+			    <li>Pop a tea bag</li>
+			    <li>Pour the hot water over the tea bag</li>
+			    <li>Tea needs time</li>
+			    <li>Gently squish the tea bag with a spoon</li>
+			    <li>If you want throw it some milk</li>
+			    <li>Enjoy!</li>
+			</ol>
+		</section>
+		
+		<footer>
+			<p>Copyright Me 2020</p>
+		</footer>
+
+		<script src="script.js"></script>
+	</body>
+</html>
