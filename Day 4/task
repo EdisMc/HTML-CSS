@@ -1,0 +1,28 @@
+
+Welcome to your Lesson 4 - Challenge 3
+In the last challenge you :
+
+    Styled the default text font
+    Sized the main heading
+    Colored the headings
+    Made the heading text uppercase
+
+In this challenge, you will style the page footer
+Also as with the last challenge, you will write your styles in index.css
+Result
+Your result should look similar to the image below.
+Steps
+
+    Create a style rule with a type selector that targets the <footer> element
+    Inside the footer rule set the margin-top to 70px
+    Inside the footer rule set the background-color to orange
+    Inside the footer rule set the color to white
+    Create a style rule with a type selector that targets the <p> child of the <footer>
+    Inside the footer p rule set the text-align to center
+    Inside the footer p rule set the padding-top to 15px
+    Inside the footer p rule set the padding-bottom to 15px
+
+Tips
+If you're stuck, the Recipe: Styling the Footer video will give you everything you need to succeed.
+ 
+Enjoy!
