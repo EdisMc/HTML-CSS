@@ -1,17 +1,23 @@
-﻿# 02 - My Home
+﻿# 01 - Fitness Site
 ------
 Problems for homework for the [“HTML and CSS Basics”](#) course @ **SoftUni**.
 
 Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Contests/#!/List/ByCategory/165/HTML-and-CSS)
 
-## Constraints
-* Change the document **title** to *"My Home"*
-* Divide your content into **header** and **main** tags
-* Use **article** tag to create two **articles** inside the header
-    * Use **h2** tag for headings
-* Use **article** tag to create three **articles** inside the main
-	* Set the articles **display** property to **inline-block**
-* For the paragraphs **text color** use **#656565** 
-* Use **img** tag for the image
-* Use **"Open Sans", sans-serif** font family
 
+## Constraints
+* Change the document **title** to *"Fitness Site"*
+* Divide your content into **header**, **main** and **footer** tags
+* Use **nav**, **ul**, **li** and **a** tags to create the navigations
+	* Set the list items **display** property to **inline-block**
+	* Center the hyperlinks and remove the default **text decoration**
+* Create three **articles** inside the main
+	* Set the **display** property to **inline-block** for each article
+* Use **h3** tag for headings
+	* **Center** the headings
+	* Set the **text color** to white
+	* Set the **font weight** to bold
+* Use **"Helvetica", sans-serif** font family
+
+## Hints
+* You can use [Font Awesome](https://fontawesome.com/) for icons
